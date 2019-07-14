@@ -21,7 +21,7 @@
 #        ┃    ┃
 #        ┃    ┃ + + + +
 #        ┃    ┃ Codes are far away from bugs with the animal protecting
-#        ┃    ┃ + 神兽保佑,代码无bug
+#        ┃    ┃ + 神兽保佑,翻墙无bug
 #        ┃    ┃
 #        ┃    ┃ +
 #        ┃    ┗━━━┓ + +
